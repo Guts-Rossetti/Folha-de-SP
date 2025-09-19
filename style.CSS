@@ -1,0 +1,282 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Open+Sans:wght@300;400&family=Roboto&display=swap");
+
+body {
+  background-color: rgb(238, 238, 238);
+  margin-right: 300px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 130px;
+  height: 100px;
+  margin-left: 335px;
+}
+.container1 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.border {
+  margin-left: 340px;
+  border-top: 2px solid rgb(168, 0, 0);
+  border-left: 2px rgb(240, 240, 240);
+  border-right: 2px rgb(240, 240, 240);
+  border-bottom: 2px rgb(240, 240, 240);
+  max-width: 1300px;
+}
+
+.semana {
+  text-align: center;
+  margin-top: -35px;
+}
+
+.preco {
+  text-align: end;
+  margin-top: -35px;
+}
+
+.ano {
+  padding-right: -200px;
+}
+
+.img {
+  margin-left: 300px;
+}
+
+.eduardo {
+  margin-left: 772px;
+  margin-top: -4px;
+}
+
+.mulher {
+  margin-left: 338px;
+  margin-top: -20px;
+  text-align: justify;
+  font-size: 22px;
+  letter-spacing: -2px;
+}
+
+#mito {
+  margin-left: 960px;
+  margin-top: -630px;
+  font-size: 62px;
+}
+
+#h3top {
+  margin-left: 960px;
+  font-size: 25px;
+  margin-top: -47px;
+}
+.ptop {
+  font-size: 17px;
+  margin-top: -10px;
+  margin-left: 1000px;
+}
+
+#ptop1 {
+  margin-left: -36px;
+  max-width: 200px;
+  text-align: justify;
+}
+#spanA {
+  margin-left: 11px;
+}
+
+#ptop2 {
+  margin-left: 180px;
+  max-width: 200px;
+  margin-top: -337px;
+  text-align: justify;
+}
+
+#spanB {
+  margin-left: 11px;
+}
+
+#ptop3 {
+  max-width: 200px;
+  margin-left: 400px;
+  margin-top: -337px;
+  text-align: justify;
+}
+
+.img2 {
+  margin-top: 50px;
+  margin-left: 520px;
+}
+
+.pmiddle1 {
+  max-width: 200px;
+  font-size: 30px;
+  text-align: justify;
+  margin-top: -830px;
+  margin-left: 340px;
+}
+
+.pmiddle2 {
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  margin-left: 340px;
+  font-weight: 500;
+}
+
+.pmiddle3 {
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  margin-left: 340px;
+  font-weight: 500;
+}
+
+#presidente {
+  margin-left: 520px;
+}
+
+.pfooter1 {
+  font-size: 18px;
+  margin-top: 40px;
+  max-width: 200px;
+  text-align: justify;
+  margin-left: 340px;
+  font-weight: 500;
+}
+
+.pfooter2 {
+  font-size: 18px;
+  font-weight: 500;
+  max-width: 220px;
+  text-align: justify;
+  margin-left: 560px;
+  margin-top: -186px;
+}
+
+.pfooter3 {
+  font-size: 18px;
+  max-width: 235px;
+  text-align: justify;
+  margin-left: 788px;
+  font-weight: 500;
+  margin-top: -270px;
+}
+
+#selfie {
+  margin-left: 791px;
+  margin-top: -10px;
+  margin-bottom: 0px;
+}
+
+.ricardao {
+  margin-left: 882px;
+  margin-top: -254px;
+  margin-bottom: -40px;
+}
+
+.pfooter4 {
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  margin-left: 978px;
+  margin-top: -275px;
+  font-weight: 500;
+}
+
+.pfooter5 {
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  margin-left: 1190px;
+  margin-top: -272px;
+  font-weight: 500;
+  position: relative;
+}
+
+.pfooter6 {
+  margin-top: -230px;
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  margin-left: 1400px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.pfooter7 {
+  margin-top: 68px;
+  margin-left: 557px;
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.pfooter8 {
+  margin-top: -247px;
+  margin-left: 770px;
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.pfooter9 {
+  margin-top: -227px;
+  margin-left: 980px;
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.pfooter10 {
+  margin-top: -290px;
+  margin-left: 1190px;
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.pfooter11 {
+  margin-top: -10px;
+  font-size: 24px;
+  margin-left: 1190px;
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.pfooter12 {
+  margin-top: -255px;
+  margin-left: 1400px;
+  font-size: 18px;
+  max-width: 200px;
+  text-align: justify;
+  font-weight: 500;
+}
+
+.clima {
+  margin-top: -80px;
+  margin-left: 340px;
+  padding-top: px;
+}
+
+#clima {
+  margin-top: -10px;
+  margin-left: 340px;
+}
+#fonte {
+  margin-left: 340px;
+  margin-top: -5px;
+}
+
+.codigo {
+  margin-top: 35px;
+  margin-left: 338px;
+  padding-right: -40px;
+  border-top: 2px solid rgb(0, 0, 0);
+  border-left: 2px rgb(240, 240, 240);
+  border-right: 2px solid rgb(0, 0, 0);
+  border-bottom: 2px rgb(240, 240, 240);
+}
